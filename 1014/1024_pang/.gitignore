@@ -31,3 +31,7 @@
 *.out
 *.app
 export PATH=$COCOS_CONSOLE_ROOT:$PATH
+
+.DS_Store
+*.xcuserstate
+
